@@ -3,7 +3,7 @@
 This repository presents the code for preprocessing cars dataset and prediction cars price.
 
 The dataset represent tabular information about cars from several brands at several different manufacturing times and their price in Iran in different Time periods.
-This dataset collected from https://divar.ir 
+This dataset collected from https://divar.ir and uploaded in https://www.kaggle.com/datasets/arianghasemi/divar-cars
 
 In the first section of the code, the preprocessing and cleaning of data, consist of handling out-of-bounds data, missing value, checking outlier and ect was done. 
 
